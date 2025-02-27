@@ -1,3 +1,7 @@
+Tecnologias usadas:
+
+-Javascript,React,HTML,CSS,NodeJS.
+
 Lista de Tarefas:
 O projeto de Lista de Tarefas é uma aplicação web que permite aos usuários criar,
 
@@ -12,8 +16,11 @@ para gerenciar tarefas de maneira eficiente.
 Tecnologias usadas:
 
 -Javascript,React,HTML,CSS,NodeJS.
+
 Para instalar use = `npm i`
+
 Para iniciar o server use= `npm start`
+
 
 
 Abra em - [http://localhost:3000](http://localhost:3000) para visualizar no seu
