@@ -1,0 +1,15 @@
+.main {
+  background:linear-gradient(rgb(253, 253, 253),rgb(186, 232, 188)) ;
+  padding: 30px;
+  margin: 50px auto;
+  max-width: 500px;
+  border-radius: 4px;
+  box-shadow: 0 0 20px rgb(3, 10, 0);
+}
+.main h1 {
+  font-size: 40px;
+  text-align: center;
+}
+
+
+
